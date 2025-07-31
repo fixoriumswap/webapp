@@ -1,0 +1,8 @@
+<script
+  id="codeGPTWidgetScript"
+  type="module"
+  async
+  src="https://widget.codegpt.co/chat-widget.js"
+  defer
+  data-widget-id="b069e843-d056-4e90-afb3-05599fdb9d47"
+></script>
